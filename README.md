@@ -7,7 +7,7 @@
 >
 > Com vista a solucionar este problema, foi desenvolvida a aplicação “Alarme Covid” que, através da localização física de uma pessoa registada, permite avisar um utilizador sempre que este se encontrou num local com um infetado. Além disso, os utilizadores conseguem ter acesso ao número de pessoas presentes num espaço físico, de modo a evitar concentrações de multidões. Os utilizadores podem, inclusive, parametrizar a aplicação para receber uma notificação sempre que o espaço onde pretendem ir não estiver ocupado. 
 >
-> Ao longo do [a link](https://github.com/pVeloso19/SD-20-21/blob/main/Relatorio_SD%20-%20Grupo3.pdf) realizado foi explicado o funcionamento da aplicação “Alarme Covid”.
+> Ao longo do [relatório](https://github.com/pVeloso19/SD-20-21/blob/main/Relatorio_SD%20-%20Grupo3.pdf) realizado foi explicado o funcionamento da aplicação “Alarme Covid”.
 >
 > Para cumprir o objetivo descrito, a aplicação “Alarme Covid” permite que um utilizador realize as seguintes ações:
 >
